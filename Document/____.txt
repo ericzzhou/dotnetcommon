@@ -1,0 +1,10 @@
+
+
+
+---------------------
+zhouzhaokun 2011-10-28
+1、新增BasePage页面基类
+2、新增HtmlHelper 类
+3、JavaScriptHelper 类中增加了些方法
+4、新增了 PagerHelper 类
+5、新增 PopupMessageHelper 类 ,使用该类，可以实现右下角的弹出界面

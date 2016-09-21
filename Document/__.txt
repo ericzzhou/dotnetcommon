@@ -1,0 +1,16 @@
+
+-----------------------
+公共类库，常用方法。
+
+作者：周兆坤
+QQ:287015545
+Email：zhouzhaokun@gmail.com
+QQ群：287015545
+http://dotnetcommon.codeplex.com
+
+
+有兴趣的可以加入
+版本控制工具SVN
+
+
+注意：提交修改之前请先更新本地

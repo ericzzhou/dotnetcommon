@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet.Framework.Common", "DotNet.Framework.Common\DotNet.Framework.Common.csproj", "{38E3620E-8481-4CE3-80E5-6C1236BD4E51}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Code", "Code", "{8C5B1A4F-C955-43FB-9A15-B0884475D5CB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Doc", "Doc", "{7CA6FD39-D53B-43DA-999A-EF6A9CC6BB31}"
+	ProjectSection(SolutionItems) = preProject
+		Document\开发人员.txt = Document\开发人员.txt
+		Document\更新历史.txt = Document\更新历史.txt
+		Document\说明.txt = Document\说明.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", "{B637AE08-2336-4AF1-92F5-7ACCF846E47C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libs", "Libs", "{B80A235D-48EF-4CB0-8B5E-50DFAAA2C358}"
+	ProjectSection(SolutionItems) = preProject
+		Libs\itextsharp.dll = Libs\itextsharp.dll
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs37
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Demo\\Demo.csproj
+		SccProjectTopLevelParentUniqueName1 = DotNet.Framework.Common-2010.sln
+		SccProjectName1 = Demo
+		SccLocalPath1 = Demo
+		SccProjectUniqueName2 = DotNet.Framework.Common\\DotNet.Framework.Common.csproj
+		SccProjectTopLevelParentUniqueName2 = DotNet.Framework.Common-2010.sln
+		SccProjectName2 = DotNet.Framework.Common
+		SccLocalPath2 = DotNet.Framework.Common
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38E3620E-8481-4CE3-80E5-6C1236BD4E51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38E3620E-8481-4CE3-80E5-6C1236BD4E51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38E3620E-8481-4CE3-80E5-6C1236BD4E51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38E3620E-8481-4CE3-80E5-6C1236BD4E51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B637AE08-2336-4AF1-92F5-7ACCF846E47C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B637AE08-2336-4AF1-92F5-7ACCF846E47C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B637AE08-2336-4AF1-92F5-7ACCF846E47C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B637AE08-2336-4AF1-92F5-7ACCF846E47C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{38E3620E-8481-4CE3-80E5-6C1236BD4E51} = {8C5B1A4F-C955-43FB-9A15-B0884475D5CB}
+		{B637AE08-2336-4AF1-92F5-7ACCF846E47C} = {8C5B1A4F-C955-43FB-9A15-B0884475D5CB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\eric.zhou\Desktop\dotnetcommon-23012\DotNet.Framework.Common\bin\Debug\DotNet.Framework.Common.XML
+C:\Users\eric.zhou\Desktop\dotnetcommon-23012\DotNet.Framework.Common\bin\Debug\DotNet.Framework.Common.dll
+C:\Users\eric.zhou\Desktop\dotnetcommon-23012\DotNet.Framework.Common\bin\Debug\DotNet.Framework.Common.pdb
+C:\Users\eric.zhou\Desktop\dotnetcommon-23012\DotNet.Framework.Common\bin\Debug\itextsharp.dll
+C:\Users\eric.zhou\Desktop\dotnetcommon-23012\DotNet.Framework.Common\obj\Debug\DotNet.Framework.Common.csprojResolveAssemblyReference.cache
+C:\Users\eric.zhou\Desktop\dotnetcommon-23012\DotNet.Framework.Common\obj\Debug\DotNet.Framework.Common.dll
+C:\Users\eric.zhou\Desktop\dotnetcommon-23012\DotNet.Framework.Common\obj\Debug\DotNet.Framework.Common.pdb

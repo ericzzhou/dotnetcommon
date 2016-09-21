@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet.Framework.Common", "DotNet.Framework.Common\DotNet.Framework.Common.csproj", "{38E3620E-8481-4CE3-80E5-6C1236BD4E51}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Code", "Code", "{8C5B1A4F-C955-43FB-9A15-B0884475D5CB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Doc", "Doc", "{7CA6FD39-D53B-43DA-999A-EF6A9CC6BB31}"
+	ProjectSection(SolutionItems) = preProject
+		Document\更新历史.txt = Document\更新历史.txt
+		Document\说明.txt = Document\说明.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", "{B637AE08-2336-4AF1-92F5-7ACCF846E47C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libs", "Libs", "{67BB93BF-8920-4691-BFE1-FFB1A6FBEC27}"
+	ProjectSection(SolutionItems) = preProject
+		Libs\itextsharp.dll = Libs\itextsharp.dll
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38E3620E-8481-4CE3-80E5-6C1236BD4E51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38E3620E-8481-4CE3-80E5-6C1236BD4E51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38E3620E-8481-4CE3-80E5-6C1236BD4E51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38E3620E-8481-4CE3-80E5-6C1236BD4E51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B637AE08-2336-4AF1-92F5-7ACCF846E47C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B637AE08-2336-4AF1-92F5-7ACCF846E47C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B637AE08-2336-4AF1-92F5-7ACCF846E47C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B637AE08-2336-4AF1-92F5-7ACCF846E47C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{38E3620E-8481-4CE3-80E5-6C1236BD4E51} = {8C5B1A4F-C955-43FB-9A15-B0884475D5CB}
+		{B637AE08-2336-4AF1-92F5-7ACCF846E47C} = {8C5B1A4F-C955-43FB-9A15-B0884475D5CB}
+	EndGlobalSection
+EndGlobal

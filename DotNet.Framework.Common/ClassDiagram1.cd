@@ -1,0 +1,678 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DotNet.Framework.Common.Assistant" Collapsed="true">
+    <Position X="26.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAABAAAAAAAAAAAAIAAAABAAAAIAAACAAGA=</HashCode>
+      <FileName>Assistant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.BasePage" Collapsed="true">
+    <Position X="28" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAACAAAAAAAAAAAAAAAAAAAQAABAAAAIAAAE=</HashCode>
+      <FileName>BasePage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.DataCache" Collapsed="true">
+    <Position X="35" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>DataCache.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.FormulaCalculator" Collapsed="true">
+    <Position X="36.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAIgIABEAAAQAQAAAAAAEACGAAAAIBABAIgAAAAAA=</HashCode>
+      <FileName>FormulaCalculator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.FormulaDeal" Collapsed="true">
+    <Position X="38.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAgAAAAAAAECAAAABAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>FormulaExpress.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.MailHelper" Collapsed="true">
+    <Position X="28" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Helper\MailHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.SysHelper" Collapsed="true">
+    <Position X="35" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAQAAACACAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Helper\SysHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.HtmlPager" Collapsed="true">
+    <Position X="29.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HtmlPager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.UploadEventArgs" Collapsed="true">
+    <Position X="38.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAABAQAAAAAAA=</HashCode>
+      <FileName>HttpProc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.DownloadEventArgs" Collapsed="true">
+    <Position X="29.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAMAAAADAAAAAAAAAAABAAAAAQAAAAAAA=</HashCode>
+      <FileName>HttpProc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.WebClient" Collapsed="true">
+    <Position X="28" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAWAANACgwCCAAIAAAiAAAgIBAACACQgAAAgI=</HashCode>
+      <FileName>HttpProc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.MultipartForm" Collapsed="true">
+    <Position X="28" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAIAAgAAABIAAAAAAAAAAAAIAAAAQQAAAAAAA=</HashCode>
+      <FileName>HttpProc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.MailSender" Collapsed="true">
+    <Position X="31.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MailSender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.SmtpSetting" Collapsed="true">
+    <Position X="29.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAEAAAAAAAAAQAAAAAAAAAAAEAACAQIAAwAIAAA=</HashCode>
+      <FileName>MailSender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.SmtpConfig" Collapsed="true">
+    <Position X="28" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAAAEAAAAgAAAAACAA=</HashCode>
+      <FileName>MailSender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.MessageBox" Collapsed="true">
+    <Position X="36.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQABAAAAAAAEAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MessageBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.MySecurity" Collapsed="true">
+    <Position X="29.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAACAAgAIAAEAAQAAAACAAAAAQEoAIAAAAA=</HashCode>
+      <FileName>MySecurity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.OWCChart11" Collapsed="true">
+    <Position X="35" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIACAKAAAkIAAEgAAgAAQAAEAQAAAABAAACEAAU=</HashCode>
+      <FileName>OWCChart11.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.PageValidate" Collapsed="true">
+    <Position X="38.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QACIQCmBIABACEWAAEDAAEQBAAABCAAAAQIQRAAEAEA=</HashCode>
+      <FileName>PageValidate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.QueryString" Collapsed="true">
+    <Position X="40.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAEACAAAAAAAgAgAAAAAAAECAgAQA=</HashCode>
+      <FileName>QueryString.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Request" Collapsed="true">
+    <Position X="35" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAABgAAAAAgIAABAABAEAQAAKYIDAAAAACAAA=</HashCode>
+      <FileName>Request.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.UrlOper" Collapsed="true">
+    <Position X="40.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEIAAAAAAEAAAAgBBAAAAAAAAIAAAAAAAAAAAAg=</HashCode>
+      <FileName>UrlOper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.ValidateImg" Collapsed="true">
+    <Position X="26.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>ValidateImg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.DataTimeT.DateTimeHelper" Collapsed="true">
+    <Position X="38.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAABAAAAAAAAAAAAAAAAAAAAAAQAAQAQA=</HashCode>
+      <FileName>DataTimeT\DateTimeHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.DataTimeT.TimeHelper" Collapsed="true">
+    <Position X="36.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAABAAAAAAAACAAACAECAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>DataTimeT\TimeHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.DEncrypt.DEncrypt" Collapsed="true">
+    <Position X="40.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DEncrypt\DEncrypt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.DEncrypt.DESEncrypt" Collapsed="true">
+    <Position X="26.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DEncrypt\DESEncrypt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.DEncrypt.HashEncode" Collapsed="true">
+    <Position X="26.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAIAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DEncrypt\HashEncode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.DEncrypt.RSACryption" Collapsed="true">
+    <Position X="38.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAACAAAAAAAEAAAAAAAAAAAAGAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>DEncrypt\RSACryption.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Helper.ConfigHelper" Collapsed="true">
+    <Position X="29.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABQAAAAEgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helper\ConfigHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Helper.ConvertHelper" Collapsed="true">
+    <Position X="31.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAEAAAAAgAgAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Helper\ConvertHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Helper.CookieHelper" Collapsed="true">
+    <Position X="33.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Helper\CookieHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Helper.DirFileHelper" Collapsed="true">
+    <Position X="28" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAkAgEAgIAABAIAggQBAAESTgQAAQABAg0AAAAQEQA=</HashCode>
+      <FileName>Helper\DirFileHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Helper.DownLoadHelper" Collapsed="true">
+    <Position X="31.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helper\DownLoadHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Helper.ExcelHelper" Collapsed="true">
+    <Position X="35" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAACEAAAAAIAAwAIAAAAAAAAgAABACAEAACAAAA=</HashCode>
+      <FileName>Helper\ExcelHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Helper.FTPHelper" Collapsed="true">
+    <Position X="40.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helper\FTPHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Helper.HtmlHelper" Collapsed="true">
+    <Position X="28" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QgAAAAAAAAAAAASAAAAAAQIAAAQAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Helper\HtmlHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Helper.INIHelper" Collapsed="true">
+    <Position X="31.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAEQAAAAQAABAAQCgAQAAAAAAAAFAAAA=</HashCode>
+      <FileName>Helper\INIHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Helper.IpHelper" Collapsed="true">
+    <Position X="33.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helper\IpHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Helper.JavaScriptHelper" Collapsed="true">
+    <Position X="35" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAAAIAAABAAAAAAAAIAACAAAACAABBAAAAAAAAAABAA=</HashCode>
+      <FileName>Helper\JavaScriptHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Helper.MediaHandlerHelper" Collapsed="true">
+    <Position X="33.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAQAAAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Helper\MediaHandlerHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Helper.NetHelper" Collapsed="true">
+    <Position X="31.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>owAAABAACBQAACCAAAAABIAAAgAAAABACIAAEACEAQA=</HashCode>
+      <FileName>Helper\NetHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Helper.PagerHelper" Collapsed="true">
+    <Position X="36.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAgAAQAEAAAAQAAAQAAAAAAAAAABAAABA=</HashCode>
+      <FileName>Helper\PagerHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Helper.PicDealHelper" Collapsed="true">
+    <Position X="28" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAABAJAAAAEAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helper\PicDealHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Helper.PopupMessageHelper" Collapsed="true">
+    <Position X="38.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAACAAAAAAAQAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Helper\PopupMessageHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Helper.RandomHelper" Collapsed="true">
+    <Position X="29.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAgAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Helper\RandomHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Helper.ReflectHelper" Collapsed="true">
+    <Position X="31.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AiAAAAQAAAAgAAAAAAAAAAQAAAAABIAAAAAAAAAQAAA=</HashCode>
+      <FileName>Helper\ReflectHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Helper.RegexHelper" Collapsed="true">
+    <Position X="33.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helper\RegexHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Helper.RmbHelper" Collapsed="true">
+    <Position X="36.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Helper\RmbHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Helper.SerializeHelper" Collapsed="true">
+    <Position X="40.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAIAAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helper\SerializeHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Helper.SessionHelper" Collapsed="true">
+    <Position X="26.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAEAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helper\SessionHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Helper.WebSitePathHelper" Collapsed="true">
+    <Position X="29.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Helper\WebSitePathHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Helper.XmlHelper" Collapsed="true">
+    <Position X="31.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QEAAAIgAJAAAAgEAAAACAMAAEAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Helper\XmlHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Json.Json" Collapsed="true">
+    <Position X="36.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAEAAAAAAAAAIAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Json\Json.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Json.JsonData" Collapsed="true">
+    <Position X="38.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAQAAAAAAAAAAAABAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Json\JsonData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Json.JsonHelper" Collapsed="true">
+    <Position X="40.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Json\JsonHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Mail.ConnectCommand" Collapsed="true">
+    <Position X="21.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAAgAAQAABAAEA=</HashCode>
+      <FileName>Mail\ConnectCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Mail.ConnectResponse" Collapsed="true">
+    <Position X="7.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACCAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mail\ConnectResponse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Mail.DeleCommand" Collapsed="true">
+    <Position X="1.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mail\DeleCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Mail.ListCommand" Collapsed="true">
+    <Position X="5.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAQAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Mail\ListCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Mail.ListResponse" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAACAAAAAAAAAAAABAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Mail\ListResponse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Mail.MailHeaders" Collapsed="true">
+    <Position X="26.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAABAAAAAAAAAIAAAACIAAgIAAAFAAAAAAAAABg=</HashCode>
+      <FileName>Mail\MailHeaders.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Mail.MailMessageEx" Collapsed="true">
+    <Position X="29.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAhAABAQAgBEAEAQQgAAkAAAgEEAAQAAIAAME=</HashCode>
+      <FileName>Mail\MailMessageEx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Mail.NoopCommand" Collapsed="true">
+    <Position X="12.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mail\NoopCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Mail.PassCommand" Collapsed="true">
+    <Position X="17" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mail\PassCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Mail.Pop3Client" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="29.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EMQABAAAACACAEgCAQACAKIACgAoABQCgAIwEBCgAVI=</HashCode>
+      <FileName>Mail\Pop3Client.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DotNet.Framework.Common.Mail.Pop3Command&lt;T&gt;" Collapsed="true">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MQAAAAAgACAAAQQJCEAQAGCQhhAEABEQAAAAAABAAAg=</HashCode>
+      <FileName>Mail\Pop3Command.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DotNet.Framework.Common.Mail.Pop3Commands" Collapsed="true">
+    <Position X="31.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAQAAAAAAAAAAAAACAgIAAAAAAIAEACgAQI=</HashCode>
+      <FileName>Mail\Pop3Commands.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Mail.Pop3Exception" Collapsed="true">
+    <Position X="33.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mail\Pop3Exception.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Mail.Pop3ListItem" Collapsed="true">
+    <Position X="35" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAQAgAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Mail\Pop3ListItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Mail.Pop3Response" Collapsed="true">
+    <Position X="3.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAABAAAAAAAAABAAAEACAACAAAABAAAA=</HashCode>
+      <FileName>Mail\Pop3Response.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Mail.Pop3Responses" Collapsed="true">
+    <Position X="36.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAA=</HashCode>
+      <FileName>Mail\Pop3Responses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Mail.QuitCommand" Collapsed="true">
+    <Position X="14.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mail\QuitCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Mail.RetrCommand" Collapsed="true">
+    <Position X="19.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAEAAAAABAAAA=</HashCode>
+      <FileName>Mail\RetrCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Mail.RetrResponse" Collapsed="true">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAEAEAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Mail\RetrResponse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Mail.RsetCommand" Collapsed="true">
+    <Position X="23.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mail\RsetCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Mail.Stat" Collapsed="true">
+    <Position X="31.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAgAAAAQAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mail\Stat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Mail.StatCommand" Collapsed="true">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Mail\StatCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Mail.StatResponse" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAgAAAAQAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mail\StatResponse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Mail.TopCommand" Collapsed="true">
+    <Position X="8" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAgAAAAAAAAAAAAAAAAAAAQAABAAAA=</HashCode>
+      <FileName>Mail\TopCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Mail.UserCommand" Collapsed="true">
+    <Position X="10.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Mail\UserCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Mime.MediaTypes" Collapsed="true">
+    <Position X="35" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAABABAAACgQAAAAQAAAAIACAAAAAAEAIAAAAAQ=</HashCode>
+      <FileName>Mime\MediaTypes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Mime.MimeEntity" Collapsed="true">
+    <Position X="38.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACoQIAAIAhABCEABAgAEUQKQCBABIBwAFAAQAGSAIAI=</HashCode>
+      <FileName>Mime\MimeEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Mime.MimeHeaders" Collapsed="true">
+    <Position X="40.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAEAAAAAAAQAAAAAAAAgAEAAQAAAAAAA=</HashCode>
+      <FileName>Mime\MimeHeaders.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Mime.MimeReader" Collapsed="true">
+    <Position X="26.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAIAAABAAEDAAgAAEABIAACAASAFAEAAAA=</HashCode>
+      <FileName>Mime\MimeReader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.Mime.QuotedPrintableEncoding" Collapsed="true">
+    <Position X="26.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAABQAAAAAAAgAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Mime\QuotedPrintableEncoding.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.ObjectT.ObjectHelper" Collapsed="true">
+    <Position X="33.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>ObjectT\ObjectHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.PDF.PDFCommon" Collapsed="true">
+    <Position X="40.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAACEAIAAAAAAgQAAAAAIAQAAAAgABAAQAAA=</HashCode>
+      <FileName>PDF\PDFCommon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.PDF.PDFCS" Collapsed="true">
+    <Position X="26.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwgAwABBCARIIIJuQQUIBICAAEAgBADAYAAGAABMDQE=</HashCode>
+      <FileName>PDF\PDFCS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.StringT.StringHelper" Collapsed="true">
+    <Position X="33.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAEAEAAAAQAAEAAAAAgDAAwAgAABGQAAxCAAAEA=</HashCode>
+      <FileName>StringT\StringHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.WebControl.DataControl" Collapsed="true">
+    <Position X="36.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAIACAAAAAAAAEAAAA=</HashCode>
+      <FileName>WebControl\DataControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.WebControl.DropDownList" Collapsed="true">
+    <Position X="33.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WebControl\DropDownList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotNet.Framework.Common.WebControl.RadioButtonList" Collapsed="true">
+    <Position X="28" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WebControl\RadioButtonList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="DotNet.Framework.Common.EnumFormula" Collapsed="true">
+    <Position X="26.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMAAAAAAAAgAACgAAAEAAAAAAWAAAAAAAAAAAMAAAA=</HashCode>
+      <FileName>FormulaExpress.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="DotNet.Framework.Common.Helper.ThumbnailMod" Collapsed="true">
+    <Position X="29.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAEAIAAA=</HashCode>
+      <FileName>Helper\PicDealHelper.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="DotNet.Framework.Common.Mail.Pop3State" Collapsed="true">
+    <Position X="28" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Mail\Pop3State.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="宋体" Size="9" />
+</ClassDiagram>
